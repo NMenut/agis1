@@ -5,12 +5,21 @@ sys.path.append('__init__')
 from art import *
 import get_ip as ad
 import file_mg as file 
+import config_Backup as config
 from termcolor import colored 
+import json 
 
 
 print(colored(text2art ("Agis1"),'cyan'))
 print(colored('Created by Nicolas MENUT \n\n'.center(60),'red'))
-
+url = None 
+port = None 
+# Lecture du fichier json si il y a des informations pré-enregistrés
+with open('__init__/target.json') as json_backup :
+    data = json.load(json_backup)
+    for p in data['data']:
+        url = p["url"]
+        port = p["port"]
 
 def help():
     f = open('__init__/help.txt','r')
@@ -19,8 +28,10 @@ def help():
     f.close()
 
 def nmap1():
-    url =input("Please enter the URL : ")
-    port = input("Port : ")
+    global url 
+    global port
+    url, port = config.config_attk(url, port)
+    # config.save_changes(url,port)
     path_dir ="reports/" + url
     file.create_dir(path_dir)
     ip = ad.get(url)
@@ -30,7 +41,16 @@ def nmap1():
     os.system('gnome-terminal -- bash -c "python3 __init__/dirsearch/dirsearch.py -u '+url+":"+port+ ' -e * --simple-report='+path_dir+'/dirsearch.txt && bash"')
 
 	
-
+def nmap2():
+    global url 
+    global port
+    url, port = config.config_attk(url, port)
+    config.save_changes(url,port)
+    path_dir ="reports/" + url
+    file.create_dir(path_dir)
+    ip = ad.get(url)
+    print('The IP Address is :',ip)
+    os.system('gnome-terminal -- bash -c "nmap -sV --script=vuln '+ip+' -o '+path_dir+'/nmap_vuln.txt && bash"') 
 
 
 def main():
@@ -45,7 +65,7 @@ def main():
             if current_arg in ("-n","--nmap1"):
                 nmap1()  
             if current_arg in ("-u","--nmap2"):
-                print("exemple2")   
+                nmap2()   
             if current_arg in ("-h","--help"):
                 help()
     except getopt.error as err:
