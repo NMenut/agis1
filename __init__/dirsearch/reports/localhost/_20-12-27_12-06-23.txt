@@ -1,0 +1,6160 @@
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.ht_wsr.txt
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htaccess.bak1
+403  1020B   http://localhost:8000/.htaccess.save
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htaccessOLD
+403  1020B   http://localhost:8000/.htaccess.orig
+403  1020B   http://localhost:8000/.htaccess_extra
+403  1020B   http://localhost:8000/.htaccess.sample
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htaccess_sc
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htaccessBAK
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.html
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htpasswds
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.httr-oauth
+403  1020B   http://localhost:8000/.htaccessOLD2
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htaccess_orig
+403  1020B   http://localhost:8000/.htm
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+403  1020B   http://localhost:8000/.htpasswd_test
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:25 2020
+
+Time: Sun Dec 27 12:06:29 2020
+
+Time: Sun Dec 27 12:06:29 2020
+
+Time: Sun Dec 27 12:06:30 2020
+
+301   236B   http://localhost:8000/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:06:30 2020
+
+200     1KB  http://localhost:8000/admin.php
+Time: Sun Dec 27 12:06:30 2020
+
+Time: Sun Dec 27 12:06:30 2020
+
+200     0B   http://localhost:8000/admin/
+Time: Sun Dec 27 12:06:30 2020
+
+Time: Sun Dec 27 12:06:30 2020
+
+Time: Sun Dec 27 12:06:30 2020
+
+200     0B   http://localhost:8000/admin/?/login
+Time: Sun Dec 27 12:06:30 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess
+Time: Sun Dec 27 12:06:33 2020
+
+Time: Sun Dec 27 12:06:33 2020
+
+403     1KB  http://localhost:8000/cgi-bin/
+Time: Sun Dec 27 12:06:33 2020
+
+Time: Sun Dec 27 12:06:33 2020
+
+403  1020B   http://localhost:8000/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:06:33 2020
+
+Time: Sun Dec 27 12:06:33 2020
+
+403  1020B   http://localhost:8000/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:06:33 2020
+
+Time: Sun Dec 27 12:06:33 2020
+
+500     1KB  http://localhost:8000/cgi-bin/test-cgi
+Time: Sun Dec 27 12:06:35 2020
+
+Time: Sun Dec 27 12:06:35 2020
+
+403     1KB  http://localhost:8000/error/
+Time: Sun Dec 27 12:06:36 2020
+
+Time: Sun Dec 27 12:06:36 2020
+
+200   493B   http://localhost:8000/header.php
+Time: Sun Dec 27 12:06:36 2020
+
+Time: Sun Dec 27 12:06:36 2020
+
+Time: Sun Dec 27 12:06:36 2020
+
+200     1KB  http://localhost:8000/index.php
+200     1KB  http://localhost:8000/index.php/login/
+Time: Sun Dec 27 12:06:36 2020
+
+Time: Sun Dec 27 12:06:40 2020
+
+Time: Sun Dec 27 12:06:40 2020
+
+301   241B   http://localhost:8000/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:06:40 2020
+
+Time: Sun Dec 27 12:06:40 2020
+
+Time: Sun Dec 27 12:06:40 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:06:40 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/index.php
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess.bak1
+403  1020B   http://localhost:8000/admin/.htaccess.orig
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess.sample
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccessOLD
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess_extra
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccessOLD2
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess_sc
+403  1020B   http://localhost:8000/admin/.htaccess_orig
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htm
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.html
+403  1020B   http://localhost:8000/admin/.htpasswds
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.httr-oauth
+403  1020B   http://localhost:8000/admin/.htpasswd_test
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccess.save
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+403  1020B   http://localhost:8000/admin/.htaccessBAK
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:46 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+301   236B   http://localhost:8000/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+200     1KB  http://localhost:8000/admin/admin.php
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+200     0B   http://localhost:8000/admin/admin/
+Time: Sun Dec 27 12:06:51 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:51 2020
+
+Time: Sun Dec 27 12:06:54 2020
+
+200     0B   http://localhost:8000/admin/admin/?/login
+403     1KB  http://localhost:8000/admin/cgi-bin/
+Time: Sun Dec 27 12:06:54 2020
+
+Time: Sun Dec 27 12:06:54 2020
+
+Time: Sun Dec 27 12:06:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:06:54 2020
+
+Time: Sun Dec 27 12:06:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:06:54 2020
+
+Time: Sun Dec 27 12:06:54 2020
+
+500     1KB  http://localhost:8000/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:06:56 2020
+
+Time: Sun Dec 27 12:06:56 2020
+
+403     1KB  http://localhost:8000/admin/error/
+Time: Sun Dec 27 12:06:57 2020
+
+Time: Sun Dec 27 12:06:57 2020
+
+Time: Sun Dec 27 12:06:57 2020
+
+200   493B   http://localhost:8000/admin/header.php
+Time: Sun Dec 27 12:06:57 2020
+
+200     1KB  http://localhost:8000/admin/index.php
+200     1KB  http://localhost:8000/admin/index.php/login/
+Time: Sun Dec 27 12:06:57 2020
+
+Time: Sun Dec 27 12:06:57 2020
+
+Time: Sun Dec 27 12:07:00 2020
+
+Time: Sun Dec 27 12:07:00 2020
+
+Time: Sun Dec 27 12:07:00 2020
+
+301   241B   http://localhost:8000/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:07:01 2020
+
+200   119KB  http://localhost:8000/admin/phpmyadmin/
+Time: Sun Dec 27 12:07:01 2020
+
+Time: Sun Dec 27 12:07:01 2020
+
+200   119KB  http://localhost:8000/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess.save
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess_orig
+403  1020B   http://localhost:8000/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccessBAK
+403  1020B   http://localhost:8000/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess_sc
+403  1020B   http://localhost:8000/cgi-bin/.htm
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.html
+403  1020B   http://localhost:8000/cgi-bin/.htpasswd_test
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:06 2020
+
+403  1020B   http://localhost:8000/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:07:06 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+301   236B   http://localhost:8000/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/cgi-bin/admin.php
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+200     0B   http://localhost:8000/cgi-bin/admin/
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:11 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:07:11 2020
+
+200     0B   http://localhost:8000/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:07:11 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+403     1KB  http://localhost:8000/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:07:14 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/awstats.pl
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:07:14 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+Time: Sun Dec 27 12:07:14 2020
+
+500     1KB  http://localhost:8000/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:07:17 2020
+
+Time: Sun Dec 27 12:07:17 2020
+
+403     1KB  http://localhost:8000/cgi-bin/error/
+Time: Sun Dec 27 12:07:18 2020
+
+Time: Sun Dec 27 12:07:18 2020
+
+Time: Sun Dec 27 12:07:18 2020
+
+200   493B   http://localhost:8000/cgi-bin/header.php
+200     1KB  http://localhost:8000/cgi-bin/index.php
+Time: Sun Dec 27 12:07:18 2020
+
+Time: Sun Dec 27 12:07:18 2020
+
+200     1KB  http://localhost:8000/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:07:18 2020
+
+Time: Sun Dec 27 12:07:22 2020
+
+Time: Sun Dec 27 12:07:22 2020
+
+Time: Sun Dec 27 12:07:22 2020
+
+301   241B   http://localhost:8000/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:07:22 2020
+
+Time: Sun Dec 27 12:07:22 2020
+
+200   119KB  http://localhost:8000/cgi-bin/phpmyadmin/
+200   119KB  http://localhost:8000/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:07:22 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.ht_wsr.txt
+403  1020B   http://localhost:8000/error/.htaccess.bak1
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccess.sample
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccess.save
+403  1020B   http://localhost:8000/error/.htaccess.orig
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccess_sc
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccessOLD
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccessOLD2
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htaccess_extra
+403  1020B   http://localhost:8000/error/.htaccessBAK
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htm
+403  1020B   http://localhost:8000/error/.html
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.httr-oauth
+403  1020B   http://localhost:8000/error/.htaccess_orig
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htpasswds
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+403  1020B   http://localhost:8000/error/.htpasswd_test
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:28 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+301   236B   http://localhost:8000/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+200     1KB  http://localhost:8000/error/admin.php
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+200     0B   http://localhost:8000/error/admin/
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+200     0B   http://localhost:8000/error/admin/?/login
+403  1020B   http://localhost:8000/error/admin/.htaccess
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:33 2020
+
+Time: Sun Dec 27 12:07:36 2020
+
+Time: Sun Dec 27 12:07:36 2020
+
+Time: Sun Dec 27 12:07:36 2020
+
+403     1KB  http://localhost:8000/error/cgi-bin/
+403  1020B   http://localhost:8000/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:07:36 2020
+
+Time: Sun Dec 27 12:07:37 2020
+
+Time: Sun Dec 27 12:07:37 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:07:37 2020
+
+Time: Sun Dec 27 12:07:37 2020
+
+500     1KB  http://localhost:8000/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:07:39 2020
+
+Time: Sun Dec 27 12:07:39 2020
+
+403     1KB  http://localhost:8000/error/error/
+Time: Sun Dec 27 12:07:40 2020
+
+Time: Sun Dec 27 12:07:40 2020
+
+200   493B   http://localhost:8000/error/header.php
+Time: Sun Dec 27 12:07:40 2020
+
+Time: Sun Dec 27 12:07:40 2020
+
+200     1KB  http://localhost:8000/error/index.php/login/
+200     1KB  http://localhost:8000/error/index.php
+Time: Sun Dec 27 12:07:40 2020
+
+Time: Sun Dec 27 12:07:40 2020
+
+Time: Sun Dec 27 12:07:44 2020
+
+Time: Sun Dec 27 12:07:44 2020
+
+Time: Sun Dec 27 12:07:44 2020
+
+301   241B   http://localhost:8000/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+200   119KB  http://localhost:8000/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:07:44 2020
+
+Time: Sun Dec 27 12:07:44 2020
+
+Time: Sun Dec 27 12:07:44 2020
+
+200   119KB  http://localhost:8000/error/phpmyadmin/
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.ht_wsr.txt
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccess_orig
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccessOLD2
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccess.sample
+403  1020B   http://localhost:8000/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htaccess_extra
+403  1020B   http://localhost:8000/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htm
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.httr-oauth
+403  1020B   http://localhost:8000/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.htpasswds
+403  1020B   http://localhost:8000/index.php/login/.htaccess.orig
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+403  1020B   http://localhost:8000/index.php/login/.html
+403  1020B   http://localhost:8000/index.php/login/.htaccessOLD
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:50 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+301   236B   http://localhost:8000/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+200     1KB  http://localhost:8000/index.php/login/admin.php
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+200     0B   http://localhost:8000/index.php/login/admin/
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess
+200     0B   http://localhost:8000/index.php/login/admin/?/login
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:55 2020
+
+Time: Sun Dec 27 12:07:58 2020
+
+Time: Sun Dec 27 12:07:58 2020
+
+403     1KB  http://localhost:8000/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:07:58 2020
+
+Time: Sun Dec 27 12:07:58 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:07:58 2020
+
+Time: Sun Dec 27 12:07:58 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:07:58 2020
+
+Time: Sun Dec 27 12:07:58 2020
+
+500     1KB  http://localhost:8000/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:08:01 2020
+
+Time: Sun Dec 27 12:08:01 2020
+
+403     1KB  http://localhost:8000/index.php/login/error/
+Time: Sun Dec 27 12:08:01 2020
+
+Time: Sun Dec 27 12:08:01 2020
+
+200   493B   http://localhost:8000/index.php/login/header.php
+Time: Sun Dec 27 12:08:02 2020
+
+Time: Sun Dec 27 12:08:02 2020
+
+200     1KB  http://localhost:8000/index.php/login/index.php/login/
+Time: Sun Dec 27 12:08:02 2020
+
+Time: Sun Dec 27 12:08:02 2020
+
+Time: Sun Dec 27 12:08:05 2020
+
+200     1KB  http://localhost:8000/index.php/login/index.php
+301   241B   http://localhost:8000/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:08:06 2020
+
+Time: Sun Dec 27 12:08:06 2020
+
+Time: Sun Dec 27 12:08:06 2020
+
+200   119KB  http://localhost:8000/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:08:06 2020
+
+Time: Sun Dec 27 12:08:06 2020
+
+200   119KB  http://localhost:8000/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.ht_wsr.txt
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess.save
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess.bak1
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htaccessOLD
+403  1020B   http://localhost:8000/phpmyadmin/.htaccessBAK
+403  1020B   http://localhost:8000/phpmyadmin/.htaccessOLD2
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess_orig
+403  1020B   http://localhost:8000/phpmyadmin/.htm
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess_sc
+403  1020B   http://localhost:8000/phpmyadmin/.html
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htpasswd_test
+403  1020B   http://localhost:8000/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.httr-oauth
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:11 2020
+
+Time: Sun Dec 27 12:08:12 2020
+
+Time: Sun Dec 27 12:08:12 2020
+
+Time: Sun Dec 27 12:08:12 2020
+
+Time: Sun Dec 27 12:08:12 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+301   236B   http://localhost:8000/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/admin.php
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+200     0B   http://localhost:8000/phpmyadmin/admin/
+200     0B   http://localhost:8000/phpmyadmin/admin/?/login
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:17 2020
+
+Time: Sun Dec 27 12:08:20 2020
+
+Time: Sun Dec 27 12:08:20 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/cgi-bin/
+Time: Sun Dec 27 12:08:20 2020
+
+Time: Sun Dec 27 12:08:20 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:08:20 2020
+
+Time: Sun Dec 27 12:08:20 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:08:20 2020
+
+Time: Sun Dec 27 12:08:20 2020
+
+Time: Sun Dec 27 12:08:22 2020
+
+500     1KB  http://localhost:8000/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:08:22 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/error/
+Time: Sun Dec 27 12:08:23 2020
+
+Time: Sun Dec 27 12:08:23 2020
+
+200   493B   http://localhost:8000/phpmyadmin/header.php
+Time: Sun Dec 27 12:08:23 2020
+
+Time: Sun Dec 27 12:08:23 2020
+
+Time: Sun Dec 27 12:08:23 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/index.php
+200     1KB  http://localhost:8000/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:08:23 2020
+
+Time: Sun Dec 27 12:08:27 2020
+
+Time: Sun Dec 27 12:08:27 2020
+
+Time: Sun Dec 27 12:08:27 2020
+
+301   241B   http://localhost:8000/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:08:27 2020
+
+Time: Sun Dec 27 12:08:27 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/phpmyadmin/
+200   119KB  http://localhost:8000/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:08:27 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess.bak1
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess.sample
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess.save
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess.orig
+403  1020B   http://localhost:8000/admin/admin/.htaccessOLD2
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccessOLD
+403  1020B   http://localhost:8000/admin/admin/.htaccess_extra
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess_orig
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccess_sc
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htaccessBAK
+403  1020B   http://localhost:8000/admin/admin/.html
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/admin/.htpasswds
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.httr-oauth
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/.htm
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:33 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+301   236B   http://localhost:8000/admin/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/admin/admin/admin.php
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+200     0B   http://localhost:8000/admin/admin/admin/
+Time: Sun Dec 27 12:08:38 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+Time: Sun Dec 27 12:08:38 2020
+
+200     0B   http://localhost:8000/admin/admin/admin/?/login
+Time: Sun Dec 27 12:08:41 2020
+
+Time: Sun Dec 27 12:08:41 2020
+
+403     1KB  http://localhost:8000/admin/admin/cgi-bin/
+Time: Sun Dec 27 12:08:41 2020
+
+Time: Sun Dec 27 12:08:41 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:08:41 2020
+
+Time: Sun Dec 27 12:08:41 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:08:41 2020
+
+Time: Sun Dec 27 12:08:41 2020
+
+Time: Sun Dec 27 12:08:44 2020
+
+500     1KB  http://localhost:8000/admin/admin/cgi-bin/test-cgi
+403     1KB  http://localhost:8000/admin/admin/error/
+Time: Sun Dec 27 12:08:44 2020
+
+Time: Sun Dec 27 12:08:44 2020
+
+Time: Sun Dec 27 12:08:44 2020
+
+200   493B   http://localhost:8000/admin/admin/header.php
+Time: Sun Dec 27 12:08:45 2020
+
+Time: Sun Dec 27 12:08:45 2020
+
+200     1KB  http://localhost:8000/admin/admin/index.php
+Time: Sun Dec 27 12:08:45 2020
+
+Time: Sun Dec 27 12:08:45 2020
+
+200     1KB  http://localhost:8000/admin/admin/index.php/login/
+Time: Sun Dec 27 12:08:48 2020
+
+Time: Sun Dec 27 12:08:48 2020
+
+301   241B   http://localhost:8000/admin/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:08:49 2020
+
+Time: Sun Dec 27 12:08:49 2020
+
+Time: Sun Dec 27 12:08:49 2020
+
+200   119KB  http://localhost:8000/admin/admin/phpmyadmin/
+200   119KB  http://localhost:8000/admin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:08:49 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess.bak1
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccessBAK
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess.sample
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess.save
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htm
+403  1020B   http://localhost:8000/admin/cgi-bin/.html
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+Time: Sun Dec 27 12:08:54 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/.httr-oauth
+403  1020B   http://localhost:8000/admin/cgi-bin/.htaccess_sc
+Time: Sun Dec 27 12:08:55 2020
+
+Time: Sun Dec 27 12:08:55 2020
+
+Time: Sun Dec 27 12:08:59 2020
+
+Time: Sun Dec 27 12:08:59 2020
+
+301   236B   http://localhost:8000/admin/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:00 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/admin.php
+200     0B   http://localhost:8000/admin/cgi-bin/admin/
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:00 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess
+200     0B   http://localhost:8000/admin/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:00 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+403     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:09:03 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:09:03 2020
+
+Time: Sun Dec 27 12:09:03 2020
+
+500     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:09:05 2020
+
+Time: Sun Dec 27 12:09:05 2020
+
+403     1KB  http://localhost:8000/admin/cgi-bin/error/
+Time: Sun Dec 27 12:09:06 2020
+
+Time: Sun Dec 27 12:09:06 2020
+
+Time: Sun Dec 27 12:09:06 2020
+
+200   493B   http://localhost:8000/admin/cgi-bin/header.php
+Time: Sun Dec 27 12:09:06 2020
+
+Time: Sun Dec 27 12:09:06 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/index.php
+200     1KB  http://localhost:8000/admin/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:09:06 2020
+
+Time: Sun Dec 27 12:09:10 2020
+
+Time: Sun Dec 27 12:09:10 2020
+
+301   241B   http://localhost:8000/admin/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:09:10 2020
+
+Time: Sun Dec 27 12:09:10 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:09:10 2020
+
+Time: Sun Dec 27 12:09:10 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.ht_wsr.txt
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccess.orig
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccessBAK
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccess.bak1
+403  1020B   http://localhost:8000/admin/error/.htaccess_extra
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccess_orig
+403  1020B   http://localhost:8000/admin/error/.htaccess.save
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccessOLD
+403  1020B   http://localhost:8000/admin/error/.htaccessOLD2
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccess_sc
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.html
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htpasswds
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htaccess.sample
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.htm
+403  1020B   http://localhost:8000/admin/error/.htpasswd_test
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+403  1020B   http://localhost:8000/admin/error/.httr-oauth
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:16 2020
+
+Time: Sun Dec 27 12:09:21 2020
+
+Time: Sun Dec 27 12:09:21 2020
+
+301   236B   http://localhost:8000/admin/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:09:22 2020
+
+Time: Sun Dec 27 12:09:22 2020
+
+Time: Sun Dec 27 12:09:22 2020
+
+200     1KB  http://localhost:8000/admin/error/admin.php
+200     0B   http://localhost:8000/admin/error/admin/
+Time: Sun Dec 27 12:09:22 2020
+
+Time: Sun Dec 27 12:09:22 2020
+
+Time: Sun Dec 27 12:09:22 2020
+
+403  1020B   http://localhost:8000/admin/error/admin/.htaccess
+Time: Sun Dec 27 12:09:22 2020
+
+Time: Sun Dec 27 12:09:22 2020
+
+200     0B   http://localhost:8000/admin/error/admin/?/login
+Time: Sun Dec 27 12:09:25 2020
+
+Time: Sun Dec 27 12:09:25 2020
+
+Time: Sun Dec 27 12:09:25 2020
+
+403     1KB  http://localhost:8000/admin/error/cgi-bin/
+Time: Sun Dec 27 12:09:25 2020
+
+403  1020B   http://localhost:8000/admin/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:09:25 2020
+
+Time: Sun Dec 27 12:09:25 2020
+
+Time: Sun Dec 27 12:09:25 2020
+
+403  1020B   http://localhost:8000/admin/error/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/admin/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:09:25 2020
+
+Time: Sun Dec 27 12:09:27 2020
+
+Time: Sun Dec 27 12:09:27 2020
+
+403     1KB  http://localhost:8000/admin/error/error/
+Time: Sun Dec 27 12:09:28 2020
+
+Time: Sun Dec 27 12:09:28 2020
+
+200   493B   http://localhost:8000/admin/error/header.php
+Time: Sun Dec 27 12:09:28 2020
+
+Time: Sun Dec 27 12:09:28 2020
+
+200     1KB  http://localhost:8000/admin/error/index.php
+Time: Sun Dec 27 12:09:28 2020
+
+Time: Sun Dec 27 12:09:28 2020
+
+Time: Sun Dec 27 12:09:32 2020
+
+200     1KB  http://localhost:8000/admin/error/index.php/login/
+301   241B   http://localhost:8000/admin/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:09:32 2020
+
+Time: Sun Dec 27 12:09:32 2020
+
+Time: Sun Dec 27 12:09:32 2020
+
+Time: Sun Dec 27 12:09:32 2020
+
+200   119KB  http://localhost:8000/admin/error/phpmyadmin/index.php
+200   119KB  http://localhost:8000/admin/error/phpmyadmin/
+Time: Sun Dec 27 12:09:32 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.ht_wsr.txt
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess.sample
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess.orig
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess_orig
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess_extra
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccess_sc
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccessOLD
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccessOLD2
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htm
+403  1020B   http://localhost:8000/admin/index.php/login/.htpasswds
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.htaccessBAK
+403  1020B   http://localhost:8000/admin/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.httr-oauth
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/.html
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:38 2020
+
+Time: Sun Dec 27 12:09:43 2020
+
+Time: Sun Dec 27 12:09:43 2020
+
+301   236B   http://localhost:8000/admin/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:09:43 2020
+
+Time: Sun Dec 27 12:09:43 2020
+
+200     1KB  http://localhost:8000/admin/index.php/login/admin.php
+Time: Sun Dec 27 12:09:43 2020
+
+Time: Sun Dec 27 12:09:43 2020
+
+200     0B   http://localhost:8000/admin/index.php/login/admin/
+Time: Sun Dec 27 12:09:43 2020
+
+Time: Sun Dec 27 12:09:43 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/admin/.htaccess
+Time: Sun Dec 27 12:09:43 2020
+
+200     0B   http://localhost:8000/admin/index.php/login/admin/?/login
+Time: Sun Dec 27 12:09:43 2020
+
+Time: Sun Dec 27 12:09:46 2020
+
+Time: Sun Dec 27 12:09:46 2020
+
+403     1KB  http://localhost:8000/admin/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:09:46 2020
+
+Time: Sun Dec 27 12:09:46 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:09:47 2020
+
+Time: Sun Dec 27 12:09:47 2020
+
+403  1020B   http://localhost:8000/admin/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:09:47 2020
+
+Time: Sun Dec 27 12:09:47 2020
+
+Time: Sun Dec 27 12:09:49 2020
+
+500     1KB  http://localhost:8000/admin/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:09:49 2020
+
+403     1KB  http://localhost:8000/admin/index.php/login/error/
+Time: Sun Dec 27 12:09:50 2020
+
+Time: Sun Dec 27 12:09:50 2020
+
+200   493B   http://localhost:8000/admin/index.php/login/header.php
+Time: Sun Dec 27 12:09:50 2020
+
+Time: Sun Dec 27 12:09:50 2020
+
+200     1KB  http://localhost:8000/admin/index.php/login/index.php
+Time: Sun Dec 27 12:09:50 2020
+
+Time: Sun Dec 27 12:09:50 2020
+
+200     1KB  http://localhost:8000/admin/index.php/login/index.php/login/
+Time: Sun Dec 27 12:09:54 2020
+
+Time: Sun Dec 27 12:09:54 2020
+
+Time: Sun Dec 27 12:09:54 2020
+
+301   241B   http://localhost:8000/admin/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+200   119KB  http://localhost:8000/admin/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:09:54 2020
+
+Time: Sun Dec 27 12:09:54 2020
+
+Time: Sun Dec 27 12:09:54 2020
+
+200   119KB  http://localhost:8000/admin/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:09:59 2020
+
+Time: Sun Dec 27 12:09:59 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.ht_wsr.txt
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess.bak1
+Time: Sun Dec 27 12:09:59 2020
+
+Time: Sun Dec 27 12:09:59 2020
+
+Time: Sun Dec 27 12:09:59 2020
+
+Time: Sun Dec 27 12:09:59 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess.save
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccessOLD2
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccessOLD
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess_extra
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess_orig
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess_sc
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htm
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccessBAK
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.html
+Time: Sun Dec 27 12:10:00 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/.httr-oauth
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:00 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+301   236B   http://localhost:8000/admin/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+200     1KB  http://localhost:8000/admin/phpmyadmin/admin.php
+200     0B   http://localhost:8000/admin/phpmyadmin/admin/
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+200     0B   http://localhost:8000/admin/phpmyadmin/admin/?/login
+403  1020B   http://localhost:8000/admin/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:05 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+403     1KB  http://localhost:8000/admin/phpmyadmin/cgi-bin/
+403  1020B   http://localhost:8000/admin/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:10:08 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+403  1020B   http://localhost:8000/admin/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:10:08 2020
+
+Time: Sun Dec 27 12:10:08 2020
+
+500     1KB  http://localhost:8000/admin/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:10:10 2020
+
+Time: Sun Dec 27 12:10:10 2020
+
+Time: Sun Dec 27 12:10:11 2020
+
+403     1KB  http://localhost:8000/admin/phpmyadmin/error/
+Time: Sun Dec 27 12:10:11 2020
+
+200   493B   http://localhost:8000/admin/phpmyadmin/header.php
+Time: Sun Dec 27 12:10:12 2020
+
+Time: Sun Dec 27 12:10:12 2020
+
+200     1KB  http://localhost:8000/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:10:12 2020
+
+Time: Sun Dec 27 12:10:12 2020
+
+200     1KB  http://localhost:8000/admin/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:10:15 2020
+
+Time: Sun Dec 27 12:10:15 2020
+
+301   241B   http://localhost:8000/admin/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:10:15 2020
+
+Time: Sun Dec 27 12:10:15 2020
+
+200   119KB  http://localhost:8000/admin/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:10:15 2020
+
+Time: Sun Dec 27 12:10:15 2020
+
+200   119KB  http://localhost:8000/admin/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess.bak1
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess.sample
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccessOLD
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess.save
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccessOLD2
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess_orig
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess.orig
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess_extra
+403  1020B   http://localhost:8000/cgi-bin/admin/.html
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htpasswd_test
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.httr-oauth
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccess_sc
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htm
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/.htaccessBAK
+403  1020B   http://localhost:8000/cgi-bin/admin/.htpasswds
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:21 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+301   236B   http://localhost:8000/cgi-bin/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+200     1KB  http://localhost:8000/cgi-bin/admin/admin.php
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/admin/.htaccess
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+200     0B   http://localhost:8000/cgi-bin/admin/admin/
+200     0B   http://localhost:8000/cgi-bin/admin/admin/?/login
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:26 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+403     1KB  http://localhost:8000/cgi-bin/admin/cgi-bin/
+403  1020B   http://localhost:8000/cgi-bin/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:10:29 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+403  1020B   http://localhost:8000/cgi-bin/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:10:29 2020
+
+Time: Sun Dec 27 12:10:29 2020
+
+500     1KB  http://localhost:8000/cgi-bin/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:10:32 2020
+
+Time: Sun Dec 27 12:10:32 2020
+
+403     1KB  http://localhost:8000/cgi-bin/admin/error/
+Time: Sun Dec 27 12:10:32 2020
+
+Time: Sun Dec 27 12:10:32 2020
+
+200   493B   http://localhost:8000/cgi-bin/admin/header.php
+Time: Sun Dec 27 12:10:33 2020
+
+Time: Sun Dec 27 12:10:33 2020
+
+200     1KB  http://localhost:8000/cgi-bin/admin/index.php
+Time: Sun Dec 27 12:10:33 2020
+
+Time: Sun Dec 27 12:10:33 2020
+
+Time: Sun Dec 27 12:10:37 2020
+
+200     1KB  http://localhost:8000/cgi-bin/admin/index.php/login/
+Time: Sun Dec 27 12:10:37 2020
+
+301   241B   http://localhost:8000/cgi-bin/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:10:37 2020
+
+Time: Sun Dec 27 12:10:37 2020
+
+200   119KB  http://localhost:8000/cgi-bin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:10:37 2020
+
+Time: Sun Dec 27 12:10:37 2020
+
+200   119KB  http://localhost:8000/cgi-bin/admin/phpmyadmin/
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess.save
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccess_sc
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.html
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccessOLD
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htm
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:42 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htpasswd_test
+Time: Sun Dec 27 12:10:42 2020
+
+Time: Sun Dec 27 12:10:43 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/.htaccessBAK
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:48 2020
+
+301   236B   http://localhost:8000/cgi-bin/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:48 2020
+
+200     1KB  http://localhost:8000/cgi-bin/cgi-bin/admin.php
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:48 2020
+
+200     0B   http://localhost:8000/cgi-bin/cgi-bin/admin/
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:48 2020
+
+200     0B   http://localhost:8000/cgi-bin/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:10:48 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+403     1KB  http://localhost:8000/cgi-bin/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:10:51 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/cgi-bin/awstats.pl
+403  1020B   http://localhost:8000/cgi-bin/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:10:51 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+Time: Sun Dec 27 12:10:51 2020
+
+500     1KB  http://localhost:8000/cgi-bin/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:10:55 2020
+
+Time: Sun Dec 27 12:10:55 2020
+
+Time: Sun Dec 27 12:10:56 2020
+
+403     1KB  http://localhost:8000/cgi-bin/cgi-bin/error/
+Time: Sun Dec 27 12:10:56 2020
+
+200   493B   http://localhost:8000/cgi-bin/cgi-bin/header.php
+Time: Sun Dec 27 12:10:57 2020
+
+Time: Sun Dec 27 12:10:57 2020
+
+Time: Sun Dec 27 12:10:57 2020
+
+200     1KB  http://localhost:8000/cgi-bin/cgi-bin/index.php
+200     1KB  http://localhost:8000/cgi-bin/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:10:57 2020
+
+Time: Sun Dec 27 12:11:02 2020
+
+Time: Sun Dec 27 12:11:02 2020
+
+Time: Sun Dec 27 12:11:02 2020
+
+301   241B   http://localhost:8000/cgi-bin/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+200   119KB  http://localhost:8000/cgi-bin/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:11:02 2020
+
+Time: Sun Dec 27 12:11:02 2020
+
+Time: Sun Dec 27 12:11:02 2020
+
+200   119KB  http://localhost:8000/cgi-bin/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.ht_wsr.txt
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess.sample
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess.bak1
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess.save
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccessOLD
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccessOLD2
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccessBAK
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess_orig
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess.orig
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess_extra
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htaccess_sc
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htm
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.htpasswds
+403  1020B   http://localhost:8000/cgi-bin/error/.htpasswd_test
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.html
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:09 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/.httr-oauth
+Time: Sun Dec 27 12:11:09 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+301   236B   http://localhost:8000/cgi-bin/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+200     1KB  http://localhost:8000/cgi-bin/error/admin.php
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+200     0B   http://localhost:8000/cgi-bin/error/admin/
+200     0B   http://localhost:8000/cgi-bin/error/admin/?/login
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:14 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/admin/.htaccess
+Time: Sun Dec 27 12:11:14 2020
+
+Time: Sun Dec 27 12:11:17 2020
+
+Time: Sun Dec 27 12:11:17 2020
+
+Time: Sun Dec 27 12:11:17 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:11:17 2020
+
+403     1KB  http://localhost:8000/cgi-bin/error/cgi-bin/
+Time: Sun Dec 27 12:11:17 2020
+
+Time: Sun Dec 27 12:11:17 2020
+
+Time: Sun Dec 27 12:11:17 2020
+
+403  1020B   http://localhost:8000/cgi-bin/error/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/cgi-bin/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:11:17 2020
+
+Time: Sun Dec 27 12:11:19 2020
+
+Time: Sun Dec 27 12:11:19 2020
+
+Time: Sun Dec 27 12:11:20 2020
+
+403     1KB  http://localhost:8000/cgi-bin/error/error/
+200   493B   http://localhost:8000/cgi-bin/error/header.php
+Time: Sun Dec 27 12:11:20 2020
+
+Time: Sun Dec 27 12:11:21 2020
+
+Time: Sun Dec 27 12:11:21 2020
+
+Time: Sun Dec 27 12:11:21 2020
+
+200     1KB  http://localhost:8000/cgi-bin/error/index.php
+200     1KB  http://localhost:8000/cgi-bin/error/index.php/login/
+Time: Sun Dec 27 12:11:21 2020
+
+Time: Sun Dec 27 12:11:24 2020
+
+Time: Sun Dec 27 12:11:24 2020
+
+301   241B   http://localhost:8000/cgi-bin/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:11:24 2020
+
+Time: Sun Dec 27 12:11:24 2020
+
+200   119KB  http://localhost:8000/cgi-bin/error/phpmyadmin/
+Time: Sun Dec 27 12:11:25 2020
+
+Time: Sun Dec 27 12:11:25 2020
+
+200   119KB  http://localhost:8000/cgi-bin/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.ht_wsr.txt
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess.sample
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess.orig
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccessOLD
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccessOLD2
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess_orig
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.html
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htm
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htpasswds
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess_extra
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.httr-oauth
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:30 2020
+
+Time: Sun Dec 27 12:11:35 2020
+
+Time: Sun Dec 27 12:11:35 2020
+
+Time: Sun Dec 27 12:11:36 2020
+
+301   236B   http://localhost:8000/cgi-bin/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/cgi-bin/index.php/login/admin.php
+Time: Sun Dec 27 12:11:36 2020
+
+Time: Sun Dec 27 12:11:36 2020
+
+Time: Sun Dec 27 12:11:36 2020
+
+Time: Sun Dec 27 12:11:36 2020
+
+200     0B   http://localhost:8000/cgi-bin/index.php/login/admin/
+Time: Sun Dec 27 12:11:36 2020
+
+Time: Sun Dec 27 12:11:36 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/admin/.htaccess
+200     0B   http://localhost:8000/cgi-bin/index.php/login/admin/?/login
+Time: Sun Dec 27 12:11:36 2020
+
+Time: Sun Dec 27 12:11:39 2020
+
+Time: Sun Dec 27 12:11:39 2020
+
+403     1KB  http://localhost:8000/cgi-bin/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:11:39 2020
+
+Time: Sun Dec 27 12:11:39 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:11:39 2020
+
+Time: Sun Dec 27 12:11:39 2020
+
+Time: Sun Dec 27 12:11:39 2020
+
+403  1020B   http://localhost:8000/cgi-bin/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:11:39 2020
+
+500     1KB  http://localhost:8000/cgi-bin/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:11:41 2020
+
+Time: Sun Dec 27 12:11:41 2020
+
+403     1KB  http://localhost:8000/cgi-bin/index.php/login/error/
+Time: Sun Dec 27 12:11:42 2020
+
+Time: Sun Dec 27 12:11:42 2020
+
+200   493B   http://localhost:8000/cgi-bin/index.php/login/header.php
+Time: Sun Dec 27 12:11:42 2020
+
+Time: Sun Dec 27 12:11:42 2020
+
+200     1KB  http://localhost:8000/cgi-bin/index.php/login/index.php
+Time: Sun Dec 27 12:11:42 2020
+
+Time: Sun Dec 27 12:11:42 2020
+
+200     1KB  http://localhost:8000/cgi-bin/index.php/login/index.php/login/
+Time: Sun Dec 27 12:11:46 2020
+
+Time: Sun Dec 27 12:11:46 2020
+
+301   241B   http://localhost:8000/cgi-bin/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:11:46 2020
+
+Time: Sun Dec 27 12:11:46 2020
+
+200   119KB  http://localhost:8000/cgi-bin/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:11:46 2020
+
+Time: Sun Dec 27 12:11:46 2020
+
+200   119KB  http://localhost:8000/cgi-bin/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.ht_wsr.txt
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess.save
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess.bak1
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccessOLD
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccessBAK
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess_sc
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.html
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htm
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htpasswd_test
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.httr-oauth
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccess_orig
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:52 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/.htaccessOLD2
+301   236B   http://localhost:8000/cgi-bin/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:11:57 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+200     1KB  http://localhost:8000/cgi-bin/phpmyadmin/admin.php
+Time: Sun Dec 27 12:11:57 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+200     0B   http://localhost:8000/cgi-bin/phpmyadmin/admin/?/login
+Time: Sun Dec 27 12:11:57 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+200     0B   http://localhost:8000/cgi-bin/phpmyadmin/admin/
+Time: Sun Dec 27 12:11:57 2020
+
+Time: Sun Dec 27 12:11:57 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:12:00 2020
+
+Time: Sun Dec 27 12:12:00 2020
+
+403     1KB  http://localhost:8000/cgi-bin/phpmyadmin/cgi-bin/
+Time: Sun Dec 27 12:12:00 2020
+
+Time: Sun Dec 27 12:12:00 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:12:00 2020
+
+Time: Sun Dec 27 12:12:00 2020
+
+403  1020B   http://localhost:8000/cgi-bin/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:12:00 2020
+
+Time: Sun Dec 27 12:12:00 2020
+
+500     1KB  http://localhost:8000/cgi-bin/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:12:02 2020
+
+Time: Sun Dec 27 12:12:02 2020
+
+403     1KB  http://localhost:8000/cgi-bin/phpmyadmin/error/
+Time: Sun Dec 27 12:12:03 2020
+
+Time: Sun Dec 27 12:12:03 2020
+
+200   493B   http://localhost:8000/cgi-bin/phpmyadmin/header.php
+Time: Sun Dec 27 12:12:04 2020
+
+Time: Sun Dec 27 12:12:04 2020
+
+200     1KB  http://localhost:8000/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:12:04 2020
+
+Time: Sun Dec 27 12:12:04 2020
+
+200     1KB  http://localhost:8000/cgi-bin/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:12:07 2020
+
+Time: Sun Dec 27 12:12:07 2020
+
+301   241B   http://localhost:8000/cgi-bin/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:12:07 2020
+
+Time: Sun Dec 27 12:12:07 2020
+
+200   119KB  http://localhost:8000/cgi-bin/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:12:08 2020
+
+Time: Sun Dec 27 12:12:08 2020
+
+200   119KB  http://localhost:8000/cgi-bin/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess.orig
+403  1020B   http://localhost:8000/error/admin/.htaccess.bak1
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess.save
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess_extra
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccessBAK
+403  1020B   http://localhost:8000/error/admin/.htaccessOLD2
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccessOLD
+403  1020B   http://localhost:8000/error/admin/.htm
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.html
+403  1020B   http://localhost:8000/error/admin/.htpasswd_test
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess_orig
+403  1020B   http://localhost:8000/error/admin/.htpasswds
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.httr-oauth
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess.sample
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:13 2020
+
+403  1020B   http://localhost:8000/error/admin/.htaccess_sc
+Time: Sun Dec 27 12:12:13 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+301   236B   http://localhost:8000/error/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:12:18 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+200     1KB  http://localhost:8000/error/admin/admin.php
+Time: Sun Dec 27 12:12:18 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+200     0B   http://localhost:8000/error/admin/admin/
+Time: Sun Dec 27 12:12:18 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+Time: Sun Dec 27 12:12:18 2020
+
+403  1020B   http://localhost:8000/error/admin/admin/.htaccess
+Time: Sun Dec 27 12:12:18 2020
+
+200     0B   http://localhost:8000/error/admin/admin/?/login
+Time: Sun Dec 27 12:12:22 2020
+
+Time: Sun Dec 27 12:12:22 2020
+
+Time: Sun Dec 27 12:12:22 2020
+
+403     1KB  http://localhost:8000/error/admin/cgi-bin/
+403  1020B   http://localhost:8000/error/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:12:22 2020
+
+Time: Sun Dec 27 12:12:22 2020
+
+Time: Sun Dec 27 12:12:22 2020
+
+403  1020B   http://localhost:8000/error/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:12:22 2020
+
+Time: Sun Dec 27 12:12:22 2020
+
+500     1KB  http://localhost:8000/error/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:12:24 2020
+
+Time: Sun Dec 27 12:12:24 2020
+
+403     1KB  http://localhost:8000/error/admin/error/
+Time: Sun Dec 27 12:12:25 2020
+
+Time: Sun Dec 27 12:12:25 2020
+
+200   493B   http://localhost:8000/error/admin/header.php
+Time: Sun Dec 27 12:12:25 2020
+
+Time: Sun Dec 27 12:12:25 2020
+
+Time: Sun Dec 27 12:12:25 2020
+
+200     1KB  http://localhost:8000/error/admin/index.php
+200     1KB  http://localhost:8000/error/admin/index.php/login/
+Time: Sun Dec 27 12:12:25 2020
+
+Time: Sun Dec 27 12:12:29 2020
+
+Time: Sun Dec 27 12:12:29 2020
+
+301   241B   http://localhost:8000/error/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:12:29 2020
+
+Time: Sun Dec 27 12:12:29 2020
+
+200   119KB  http://localhost:8000/error/admin/phpmyadmin/
+Time: Sun Dec 27 12:12:29 2020
+
+Time: Sun Dec 27 12:12:29 2020
+
+200   119KB  http://localhost:8000/error/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.ht_wsr.txt
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess.save
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccessBAK
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess_sc
+403  1020B   http://localhost:8000/error/cgi-bin/.htm
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.html
+403  1020B   http://localhost:8000/error/cgi-bin/.htpasswd_test
+403  1020B   http://localhost:8000/error/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:35 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+301   236B   http://localhost:8000/error/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+200     1KB  http://localhost:8000/error/cgi-bin/admin.php
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+200     0B   http://localhost:8000/error/cgi-bin/admin/
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:40 2020
+
+200     0B   http://localhost:8000/error/cgi-bin/admin/?/login
+403  1020B   http://localhost:8000/error/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:12:40 2020
+
+Time: Sun Dec 27 12:12:45 2020
+
+Time: Sun Dec 27 12:12:45 2020
+
+403     1KB  http://localhost:8000/error/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:12:45 2020
+
+Time: Sun Dec 27 12:12:45 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:12:45 2020
+
+Time: Sun Dec 27 12:12:45 2020
+
+403  1020B   http://localhost:8000/error/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:12:45 2020
+
+Time: Sun Dec 27 12:12:45 2020
+
+500     1KB  http://localhost:8000/error/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:12:47 2020
+
+Time: Sun Dec 27 12:12:47 2020
+
+Time: Sun Dec 27 12:12:48 2020
+
+403     1KB  http://localhost:8000/error/cgi-bin/error/
+200   493B   http://localhost:8000/error/cgi-bin/header.php
+Time: Sun Dec 27 12:12:48 2020
+
+Time: Sun Dec 27 12:12:48 2020
+
+Time: Sun Dec 27 12:12:48 2020
+
+200     1KB  http://localhost:8000/error/cgi-bin/index.php
+200     1KB  http://localhost:8000/error/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:12:48 2020
+
+Time: Sun Dec 27 12:12:48 2020
+
+Time: Sun Dec 27 12:12:52 2020
+
+Time: Sun Dec 27 12:12:52 2020
+
+301   241B   http://localhost:8000/error/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:12:53 2020
+
+Time: Sun Dec 27 12:12:53 2020
+
+Time: Sun Dec 27 12:12:53 2020
+
+200   119KB  http://localhost:8000/error/cgi-bin/phpmyadmin/index.php
+200   119KB  http://localhost:8000/error/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:12:53 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.ht_wsr.txt
+403  1020B   http://localhost:8000/error/error/.htaccess.bak1
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccess.save
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccess.orig
+403  1020B   http://localhost:8000/error/error/.htaccess.sample
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccessOLD2
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccessBAK
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccess_orig
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccess_extra
+403  1020B   http://localhost:8000/error/error/.html
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htm
+403  1020B   http://localhost:8000/error/error/.htaccessOLD
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htpasswds
+403  1020B   http://localhost:8000/error/error/.httr-oauth
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htaccess_sc
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+403  1020B   http://localhost:8000/error/error/.htpasswd_test
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:03 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+301   236B   http://localhost:8000/error/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:13:09 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+200     1KB  http://localhost:8000/error/error/admin.php
+Time: Sun Dec 27 12:13:09 2020
+
+200     0B   http://localhost:8000/error/error/admin/
+Time: Sun Dec 27 12:13:09 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+403  1020B   http://localhost:8000/error/error/admin/.htaccess
+Time: Sun Dec 27 12:13:09 2020
+
+Time: Sun Dec 27 12:13:09 2020
+
+200     0B   http://localhost:8000/error/error/admin/?/login
+Time: Sun Dec 27 12:13:16 2020
+
+Time: Sun Dec 27 12:13:16 2020
+
+403     1KB  http://localhost:8000/error/error/cgi-bin/
+Time: Sun Dec 27 12:13:16 2020
+
+Time: Sun Dec 27 12:13:16 2020
+
+403  1020B   http://localhost:8000/error/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:13:16 2020
+
+Time: Sun Dec 27 12:13:16 2020
+
+Time: Sun Dec 27 12:13:16 2020
+
+403  1020B   http://localhost:8000/error/error/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:13:16 2020
+
+500     1KB  http://localhost:8000/error/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:13:19 2020
+
+Time: Sun Dec 27 12:13:19 2020
+
+403     1KB  http://localhost:8000/error/error/error/
+Time: Sun Dec 27 12:13:21 2020
+
+Time: Sun Dec 27 12:13:21 2020
+
+200   493B   http://localhost:8000/error/error/header.php
+Time: Sun Dec 27 12:13:22 2020
+
+Time: Sun Dec 27 12:13:22 2020
+
+Time: Sun Dec 27 12:13:22 2020
+
+200     1KB  http://localhost:8000/error/error/index.php
+200     1KB  http://localhost:8000/error/error/index.php/login/
+Time: Sun Dec 27 12:13:22 2020
+
+Time: Sun Dec 27 12:13:28 2020
+
+Time: Sun Dec 27 12:13:28 2020
+
+301   241B   http://localhost:8000/error/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:13:28 2020
+
+Time: Sun Dec 27 12:13:28 2020
+
+200   119KB  http://localhost:8000/error/error/phpmyadmin/
+Time: Sun Dec 27 12:13:28 2020
+
+Time: Sun Dec 27 12:13:28 2020
+
+200   119KB  http://localhost:8000/error/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.ht_wsr.txt
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess.orig
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess.sample
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess.save
+403  1020B   http://localhost:8000/error/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccessOLD
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccessOLD2
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess_orig
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htm
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.html
+403  1020B   http://localhost:8000/error/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htpasswds
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.htaccess_extra
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/.httr-oauth
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:34 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+301   236B   http://localhost:8000/error/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:13:39 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+200     1KB  http://localhost:8000/error/index.php/login/admin.php
+Time: Sun Dec 27 12:13:39 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+200     0B   http://localhost:8000/error/index.php/login/admin/
+Time: Sun Dec 27 12:13:39 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/admin/.htaccess
+Time: Sun Dec 27 12:13:39 2020
+
+Time: Sun Dec 27 12:13:39 2020
+
+200     0B   http://localhost:8000/error/index.php/login/admin/?/login
+Time: Sun Dec 27 12:13:42 2020
+
+Time: Sun Dec 27 12:13:42 2020
+
+403     1KB  http://localhost:8000/error/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:13:42 2020
+
+Time: Sun Dec 27 12:13:42 2020
+
+500     1KB  http://localhost:8000/error/index.php/login/cgi-bin/test-cgi
+403  1020B   http://localhost:8000/error/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:13:42 2020
+
+Time: Sun Dec 27 12:13:42 2020
+
+Time: Sun Dec 27 12:13:42 2020
+
+Time: Sun Dec 27 12:13:42 2020
+
+403  1020B   http://localhost:8000/error/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:13:44 2020
+
+Time: Sun Dec 27 12:13:44 2020
+
+Time: Sun Dec 27 12:13:45 2020
+
+403     1KB  http://localhost:8000/error/index.php/login/error/
+200   493B   http://localhost:8000/error/index.php/login/header.php
+Time: Sun Dec 27 12:13:45 2020
+
+Time: Sun Dec 27 12:13:45 2020
+
+Time: Sun Dec 27 12:13:45 2020
+
+200     1KB  http://localhost:8000/error/index.php/login/index.php
+Time: Sun Dec 27 12:13:45 2020
+
+Time: Sun Dec 27 12:13:45 2020
+
+200     1KB  http://localhost:8000/error/index.php/login/index.php/login/
+Time: Sun Dec 27 12:13:49 2020
+
+Time: Sun Dec 27 12:13:49 2020
+
+301   241B   http://localhost:8000/error/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:13:49 2020
+
+Time: Sun Dec 27 12:13:49 2020
+
+Time: Sun Dec 27 12:13:49 2020
+
+200   119KB  http://localhost:8000/error/index.php/login/phpmyadmin/index.php
+200   119KB  http://localhost:8000/error/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:13:49 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.ht_wsr.txt
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess.bak1
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccessBAK
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccessOLD
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess_sc
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccessOLD2
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htm
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess.orig
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess.save
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.html
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.httr-oauth
+403  1020B   http://localhost:8000/error/phpmyadmin/.htpasswd_test
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htaccess_orig
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:13:55 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+301   236B   http://localhost:8000/error/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+200     1KB  http://localhost:8000/error/phpmyadmin/admin.php
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+200     0B   http://localhost:8000/error/phpmyadmin/admin/
+403  1020B   http://localhost:8000/error/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+Time: Sun Dec 27 12:14:00 2020
+
+200     0B   http://localhost:8000/error/phpmyadmin/admin/?/login
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:03 2020
+
+403     1KB  http://localhost:8000/error/phpmyadmin/cgi-bin/
+403  1020B   http://localhost:8000/error/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:03 2020
+
+403  1020B   http://localhost:8000/error/phpmyadmin/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/error/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:14:03 2020
+
+Time: Sun Dec 27 12:14:06 2020
+
+Time: Sun Dec 27 12:14:06 2020
+
+Time: Sun Dec 27 12:14:06 2020
+
+403     1KB  http://localhost:8000/error/phpmyadmin/error/
+200   493B   http://localhost:8000/error/phpmyadmin/header.php
+Time: Sun Dec 27 12:14:06 2020
+
+Time: Sun Dec 27 12:14:07 2020
+
+Time: Sun Dec 27 12:14:07 2020
+
+200     1KB  http://localhost:8000/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:14:07 2020
+
+Time: Sun Dec 27 12:14:07 2020
+
+200     1KB  http://localhost:8000/error/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:14:10 2020
+
+Time: Sun Dec 27 12:14:10 2020
+
+301   241B   http://localhost:8000/error/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:14:11 2020
+
+Time: Sun Dec 27 12:14:11 2020
+
+200   119KB  http://localhost:8000/error/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:14:11 2020
+
+Time: Sun Dec 27 12:14:11 2020
+
+200   119KB  http://localhost:8000/error/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess.orig
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess.sample
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccessOLD2
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess.save
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccessOLD
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess_extra
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htm
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htpasswd_test
+403  1020B   http://localhost:8000/index.php/login/admin/.httr-oauth
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess.bak1
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+Time: Sun Dec 27 12:14:16 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccessBAK
+Time: Sun Dec 27 12:14:17 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess_orig
+403  1020B   http://localhost:8000/index.php/login/admin/.htaccess_sc
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:17 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.htpasswds
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:17 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/.html
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:17 2020
+
+Time: Sun Dec 27 12:14:21 2020
+
+Time: Sun Dec 27 12:14:21 2020
+
+301   236B   http://localhost:8000/index.php/login/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:14:22 2020
+
+Time: Sun Dec 27 12:14:22 2020
+
+200     1KB  http://localhost:8000/index.php/login/admin/admin.php
+Time: Sun Dec 27 12:14:22 2020
+
+Time: Sun Dec 27 12:14:22 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/admin/.htaccess
+Time: Sun Dec 27 12:14:22 2020
+
+Time: Sun Dec 27 12:14:22 2020
+
+200     0B   http://localhost:8000/index.php/login/admin/admin/?/login
+200     0B   http://localhost:8000/index.php/login/admin/admin/
+Time: Sun Dec 27 12:14:22 2020
+
+Time: Sun Dec 27 12:14:22 2020
+
+Time: Sun Dec 27 12:14:25 2020
+
+Time: Sun Dec 27 12:14:25 2020
+
+403     1KB  http://localhost:8000/index.php/login/admin/cgi-bin/
+Time: Sun Dec 27 12:14:25 2020
+
+Time: Sun Dec 27 12:14:25 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:14:25 2020
+
+Time: Sun Dec 27 12:14:25 2020
+
+Time: Sun Dec 27 12:14:25 2020
+
+403  1020B   http://localhost:8000/index.php/login/admin/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/index.php/login/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:14:25 2020
+
+Time: Sun Dec 27 12:14:27 2020
+
+Time: Sun Dec 27 12:14:27 2020
+
+Time: Sun Dec 27 12:14:28 2020
+
+403     1KB  http://localhost:8000/index.php/login/admin/error/
+200   493B   http://localhost:8000/index.php/login/admin/header.php
+Time: Sun Dec 27 12:14:28 2020
+
+Time: Sun Dec 27 12:14:28 2020
+
+Time: Sun Dec 27 12:14:28 2020
+
+200     1KB  http://localhost:8000/index.php/login/admin/index.php
+Time: Sun Dec 27 12:14:28 2020
+
+Time: Sun Dec 27 12:14:28 2020
+
+200     1KB  http://localhost:8000/index.php/login/admin/index.php/login/
+Time: Sun Dec 27 12:14:32 2020
+
+Time: Sun Dec 27 12:14:32 2020
+
+301   241B   http://localhost:8000/index.php/login/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:14:32 2020
+
+Time: Sun Dec 27 12:14:32 2020
+
+200   119KB  http://localhost:8000/index.php/login/admin/phpmyadmin/
+Time: Sun Dec 27 12:14:33 2020
+
+Time: Sun Dec 27 12:14:33 2020
+
+200   119KB  http://localhost:8000/index.php/login/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess.orig
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess.save
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess_orig
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccessBAK
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccessOLD2
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htaccess_sc
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.html
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htpasswd_test
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/.htm
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:38 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+301   236B   http://localhost:8000/index.php/login/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:14:43 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+200     1KB  http://localhost:8000/index.php/login/cgi-bin/admin.php
+Time: Sun Dec 27 12:14:43 2020
+
+200     0B   http://localhost:8000/index.php/login/cgi-bin/admin/
+200     0B   http://localhost:8000/index.php/login/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:14:43 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+Time: Sun Dec 27 12:14:43 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:14:44 2020
+
+Time: Sun Dec 27 12:14:47 2020
+
+Time: Sun Dec 27 12:14:47 2020
+
+403     1KB  http://localhost:8000/index.php/login/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:14:47 2020
+
+Time: Sun Dec 27 12:14:47 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:14:47 2020
+
+Time: Sun Dec 27 12:14:47 2020
+
+403  1020B   http://localhost:8000/index.php/login/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:14:47 2020
+
+Time: Sun Dec 27 12:14:47 2020
+
+Time: Sun Dec 27 12:14:49 2020
+
+500     1KB  http://localhost:8000/index.php/login/cgi-bin/cgi-bin/test-cgi
+403     1KB  http://localhost:8000/index.php/login/cgi-bin/error/
+Time: Sun Dec 27 12:14:49 2020
+
+Time: Sun Dec 27 12:14:50 2020
+
+Time: Sun Dec 27 12:14:50 2020
+
+Time: Sun Dec 27 12:14:50 2020
+
+200   493B   http://localhost:8000/index.php/login/cgi-bin/header.php
+Time: Sun Dec 27 12:14:50 2020
+
+200     1KB  http://localhost:8000/index.php/login/cgi-bin/index.php
+Time: Sun Dec 27 12:14:50 2020
+
+Time: Sun Dec 27 12:14:50 2020
+
+Time: Sun Dec 27 12:14:54 2020
+
+200     1KB  http://localhost:8000/index.php/login/cgi-bin/index.php/login/
+301   241B   http://localhost:8000/index.php/login/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:14:54 2020
+
+Time: Sun Dec 27 12:14:54 2020
+
+Time: Sun Dec 27 12:14:54 2020
+
+200   119KB  http://localhost:8000/index.php/login/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:14:54 2020
+
+Time: Sun Dec 27 12:14:54 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+200   119KB  http://localhost:8000/index.php/login/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.ht_wsr.txt
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess.bak1
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess.orig
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess.save
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccessBAK
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccessOLD2
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess_sc
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess_orig
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess_extra
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.html
+403  1020B   http://localhost:8000/index.php/login/error/.htm
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.httr-oauth
+403  1020B   http://localhost:8000/index.php/login/error/.htpasswd_test
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccess.sample
+403  1020B   http://localhost:8000/index.php/login/error/.htpasswds
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/.htaccessOLD
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:00 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+301   236B   http://localhost:8000/index.php/login/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+200     1KB  http://localhost:8000/index.php/login/error/admin.php
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+200     0B   http://localhost:8000/index.php/login/error/admin/
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/admin/.htaccess
+200     0B   http://localhost:8000/index.php/login/error/admin/?/login
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:05 2020
+
+Time: Sun Dec 27 12:15:08 2020
+
+Time: Sun Dec 27 12:15:08 2020
+
+403     1KB  http://localhost:8000/index.php/login/error/cgi-bin/
+Time: Sun Dec 27 12:15:08 2020
+
+Time: Sun Dec 27 12:15:08 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:15:08 2020
+
+Time: Sun Dec 27 12:15:08 2020
+
+403  1020B   http://localhost:8000/index.php/login/error/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:15:08 2020
+
+500     1KB  http://localhost:8000/index.php/login/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:15:08 2020
+
+Time: Sun Dec 27 12:15:10 2020
+
+Time: Sun Dec 27 12:15:10 2020
+
+403     1KB  http://localhost:8000/index.php/login/error/error/
+Time: Sun Dec 27 12:15:11 2020
+
+Time: Sun Dec 27 12:15:11 2020
+
+200   493B   http://localhost:8000/index.php/login/error/header.php
+Time: Sun Dec 27 12:15:12 2020
+
+Time: Sun Dec 27 12:15:12 2020
+
+200     1KB  http://localhost:8000/index.php/login/error/index.php
+Time: Sun Dec 27 12:15:12 2020
+
+Time: Sun Dec 27 12:15:12 2020
+
+200     1KB  http://localhost:8000/index.php/login/error/index.php/login/
+Time: Sun Dec 27 12:15:15 2020
+
+Time: Sun Dec 27 12:15:15 2020
+
+Time: Sun Dec 27 12:15:16 2020
+
+301   241B   http://localhost:8000/index.php/login/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:15:16 2020
+
+200   119KB  http://localhost:8000/index.php/login/error/phpmyadmin/
+Time: Sun Dec 27 12:15:16 2020
+
+Time: Sun Dec 27 12:15:16 2020
+
+200   119KB  http://localhost:8000/index.php/login/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.ht_wsr.txt
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess.orig
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess.sample
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess_extra
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccessOLD2
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess_orig
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htaccessOLD
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htpasswds
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.html
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.httr-oauth
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:21 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/.htm
+Time: Sun Dec 27 12:15:21 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+301   236B   http://localhost:8000/index.php/login/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+200     1KB  http://localhost:8000/index.php/login/index.php/login/admin.php
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+200     0B   http://localhost:8000/index.php/login/index.php/login/admin/
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/admin/.htaccess
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:27 2020
+
+Time: Sun Dec 27 12:15:31 2020
+
+200     0B   http://localhost:8000/index.php/login/index.php/login/admin/?/login
+Time: Sun Dec 27 12:15:31 2020
+
+403     1KB  http://localhost:8000/index.php/login/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:15:31 2020
+
+Time: Sun Dec 27 12:15:31 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:15:31 2020
+
+Time: Sun Dec 27 12:15:31 2020
+
+Time: Sun Dec 27 12:15:31 2020
+
+403  1020B   http://localhost:8000/index.php/login/index.php/login/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/index.php/login/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:15:31 2020
+
+Time: Sun Dec 27 12:15:33 2020
+
+Time: Sun Dec 27 12:15:33 2020
+
+Time: Sun Dec 27 12:15:35 2020
+
+403     1KB  http://localhost:8000/index.php/login/index.php/login/error/
+Time: Sun Dec 27 12:15:35 2020
+
+Time: Sun Dec 27 12:15:35 2020
+
+200   493B   http://localhost:8000/index.php/login/index.php/login/header.php
+200     1KB  http://localhost:8000/index.php/login/index.php/login/index.php
+Time: Sun Dec 27 12:15:35 2020
+
+Time: Sun Dec 27 12:15:35 2020
+
+Time: Sun Dec 27 12:15:36 2020
+
+200     1KB  http://localhost:8000/index.php/login/index.php/login/index.php/login/
+Time: Sun Dec 27 12:15:39 2020
+
+Time: Sun Dec 27 12:15:39 2020
+
+301   241B   http://localhost:8000/index.php/login/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:15:39 2020
+
+Time: Sun Dec 27 12:15:39 2020
+
+200   119KB  http://localhost:8000/index.php/login/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:15:39 2020
+
+Time: Sun Dec 27 12:15:39 2020
+
+200   119KB  http://localhost:8000/index.php/login/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.ht_wsr.txt
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccessBAK
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccessOLD
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccessOLD2
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess.save
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess_orig
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htm
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess_sc
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess.bak1
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htpasswd_test
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.html
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/.httr-oauth
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:45 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+301   236B   http://localhost:8000/index.php/login/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+200     1KB  http://localhost:8000/index.php/login/phpmyadmin/admin.php
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+200     0B   http://localhost:8000/index.php/login/phpmyadmin/admin/
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:50 2020
+
+200     0B   http://localhost:8000/index.php/login/phpmyadmin/admin/?/login
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:15:50 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+403     1KB  http://localhost:8000/index.php/login/phpmyadmin/cgi-bin/
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:15:54 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+403  1020B   http://localhost:8000/index.php/login/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:15:54 2020
+
+Time: Sun Dec 27 12:15:54 2020
+
+500     1KB  http://localhost:8000/index.php/login/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:15:56 2020
+
+Time: Sun Dec 27 12:15:56 2020
+
+Time: Sun Dec 27 12:15:57 2020
+
+403     1KB  http://localhost:8000/index.php/login/phpmyadmin/error/
+Time: Sun Dec 27 12:15:57 2020
+
+Time: Sun Dec 27 12:15:58 2020
+
+200   493B   http://localhost:8000/index.php/login/phpmyadmin/header.php
+200     1KB  http://localhost:8000/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:15:58 2020
+
+Time: Sun Dec 27 12:15:58 2020
+
+Time: Sun Dec 27 12:15:58 2020
+
+200     1KB  http://localhost:8000/index.php/login/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:16:01 2020
+
+Time: Sun Dec 27 12:16:01 2020
+
+301   241B   http://localhost:8000/index.php/login/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:16:02 2020
+
+Time: Sun Dec 27 12:16:02 2020
+
+200   119KB  http://localhost:8000/index.php/login/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:16:02 2020
+
+Time: Sun Dec 27 12:16:02 2020
+
+200   119KB  http://localhost:8000/index.php/login/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess.bak1
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccessBAK
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess.save
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess.sample
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess_orig
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:07 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccessOLD
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess_extra
+Time: Sun Dec 27 12:16:07 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htm
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.html
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htpasswd_test
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.httr-oauth
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess_sc
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccess.orig
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htpasswds
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:08 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/.htaccessOLD2
+Time: Sun Dec 27 12:16:08 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+301   236B   http://localhost:8000/phpmyadmin/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/admin/admin.php
+Time: Sun Dec 27 12:16:13 2020
+
+200     0B   http://localhost:8000/phpmyadmin/admin/admin/
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/admin/.htaccess
+200     0B   http://localhost:8000/phpmyadmin/admin/admin/?/login
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:13 2020
+
+Time: Sun Dec 27 12:16:16 2020
+
+Time: Sun Dec 27 12:16:16 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/admin/cgi-bin/
+Time: Sun Dec 27 12:16:16 2020
+
+Time: Sun Dec 27 12:16:16 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:16:16 2020
+
+Time: Sun Dec 27 12:16:16 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:16:16 2020
+
+500     1KB  http://localhost:8000/phpmyadmin/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:16:16 2020
+
+Time: Sun Dec 27 12:16:18 2020
+
+Time: Sun Dec 27 12:16:18 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/admin/error/
+Time: Sun Dec 27 12:16:19 2020
+
+Time: Sun Dec 27 12:16:19 2020
+
+Time: Sun Dec 27 12:16:20 2020
+
+200   493B   http://localhost:8000/phpmyadmin/admin/header.php
+200     1KB  http://localhost:8000/phpmyadmin/admin/index.php
+Time: Sun Dec 27 12:16:20 2020
+
+Time: Sun Dec 27 12:16:20 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/admin/index.php/login/
+Time: Sun Dec 27 12:16:20 2020
+
+Time: Sun Dec 27 12:16:24 2020
+
+Time: Sun Dec 27 12:16:24 2020
+
+301   241B   http://localhost:8000/phpmyadmin/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:16:24 2020
+
+Time: Sun Dec 27 12:16:24 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:16:24 2020
+
+Time: Sun Dec 27 12:16:24 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/admin/phpmyadmin/
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess.save
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess.orig
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccessBAK
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess.bak1
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htm
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.html
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htpasswd_test
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htaccess_sc
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:33 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+301   236B   http://localhost:8000/phpmyadmin/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/phpmyadmin/cgi-bin/admin.php
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+200     0B   http://localhost:8000/phpmyadmin/cgi-bin/admin/
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:38 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:16:38 2020
+
+200     0B   http://localhost:8000/phpmyadmin/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:16:38 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/cgi-bin/cgi-bin/
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/cgi-bin/cgi-bin/printenv.pl
+500     1KB  http://localhost:8000/phpmyadmin/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:41 2020
+
+Time: Sun Dec 27 12:16:44 2020
+
+Time: Sun Dec 27 12:16:44 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/cgi-bin/error/
+Time: Sun Dec 27 12:16:45 2020
+
+Time: Sun Dec 27 12:16:45 2020
+
+200   493B   http://localhost:8000/phpmyadmin/cgi-bin/header.php
+Time: Sun Dec 27 12:16:45 2020
+
+Time: Sun Dec 27 12:16:45 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/cgi-bin/index.php
+Time: Sun Dec 27 12:16:45 2020
+
+Time: Sun Dec 27 12:16:45 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:16:49 2020
+
+Time: Sun Dec 27 12:16:49 2020
+
+301   241B   http://localhost:8000/phpmyadmin/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:16:49 2020
+
+Time: Sun Dec 27 12:16:49 2020
+
+Time: Sun Dec 27 12:16:49 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/cgi-bin/phpmyadmin/
+200   119KB  http://localhost:8000/phpmyadmin/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:16:49 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.ht_wsr.txt
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess.bak1
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess.save
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccessOLD
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess_orig
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccessOLD2
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess_extra
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess_sc
+403  1020B   http://localhost:8000/phpmyadmin/error/.htm
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess.orig
+403  1020B   http://localhost:8000/phpmyadmin/error/.html
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccessBAK
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htpasswd_test
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htaccess.sample
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.htpasswds
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+Time: Sun Dec 27 12:16:55 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/.httr-oauth
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+301   236B   http://localhost:8000/phpmyadmin/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/error/admin.php
+200     0B   http://localhost:8000/phpmyadmin/error/admin/
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+200     0B   http://localhost:8000/phpmyadmin/error/admin/?/login
+403  1020B   http://localhost:8000/phpmyadmin/error/admin/.htaccess
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:00 2020
+
+Time: Sun Dec 27 12:17:03 2020
+
+Time: Sun Dec 27 12:17:03 2020
+
+Time: Sun Dec 27 12:17:03 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/error/cgi-bin/
+Time: Sun Dec 27 12:17:03 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:17:03 2020
+
+Time: Sun Dec 27 12:17:03 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/error/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:17:03 2020
+
+Time: Sun Dec 27 12:17:03 2020
+
+Time: Sun Dec 27 12:17:06 2020
+
+500     1KB  http://localhost:8000/phpmyadmin/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:17:06 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/error/error/
+Time: Sun Dec 27 12:17:07 2020
+
+Time: Sun Dec 27 12:17:07 2020
+
+200   493B   http://localhost:8000/phpmyadmin/error/header.php
+Time: Sun Dec 27 12:17:08 2020
+
+Time: Sun Dec 27 12:17:08 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/error/index.php
+Time: Sun Dec 27 12:17:08 2020
+
+Time: Sun Dec 27 12:17:08 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/error/index.php/login/
+Time: Sun Dec 27 12:17:12 2020
+
+Time: Sun Dec 27 12:17:12 2020
+
+301   241B   http://localhost:8000/phpmyadmin/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:17:12 2020
+
+Time: Sun Dec 27 12:17:12 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/error/phpmyadmin/
+Time: Sun Dec 27 12:17:12 2020
+
+Time: Sun Dec 27 12:17:12 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.ht_wsr.txt
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess.bak1
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess.sample
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccessOLD
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess_extra
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess.orig
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccessOLD2
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htm
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htpasswds
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.httr-oauth
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess_orig
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.html
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+Time: Sun Dec 27 12:17:18 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:17:23 2020
+
+Time: Sun Dec 27 12:17:23 2020
+
+301   236B   http://localhost:8000/phpmyadmin/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:17:24 2020
+
+Time: Sun Dec 27 12:17:24 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/index.php/login/admin.php
+Time: Sun Dec 27 12:17:24 2020
+
+Time: Sun Dec 27 12:17:24 2020
+
+200     0B   http://localhost:8000/phpmyadmin/index.php/login/admin/
+Time: Sun Dec 27 12:17:24 2020
+
+Time: Sun Dec 27 12:17:24 2020
+
+200     0B   http://localhost:8000/phpmyadmin/index.php/login/admin/?/login
+Time: Sun Dec 27 12:17:24 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/admin/.htaccess
+Time: Sun Dec 27 12:17:24 2020
+
+Time: Sun Dec 27 12:17:27 2020
+
+Time: Sun Dec 27 12:17:27 2020
+
+Time: Sun Dec 27 12:17:27 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:17:27 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:17:27 2020
+
+Time: Sun Dec 27 12:17:27 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:17:27 2020
+
+Time: Sun Dec 27 12:17:27 2020
+
+500     1KB  http://localhost:8000/phpmyadmin/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:17:29 2020
+
+Time: Sun Dec 27 12:17:29 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/index.php/login/error/
+Time: Sun Dec 27 12:17:30 2020
+
+Time: Sun Dec 27 12:17:30 2020
+
+200   493B   http://localhost:8000/phpmyadmin/index.php/login/header.php
+Time: Sun Dec 27 12:17:30 2020
+
+Time: Sun Dec 27 12:17:30 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/index.php/login/index.php
+Time: Sun Dec 27 12:17:30 2020
+
+Time: Sun Dec 27 12:17:30 2020
+
+Time: Sun Dec 27 12:17:34 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/index.php/login/index.php/login/
+301   241B   http://localhost:8000/phpmyadmin/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:17:34 2020
+
+Time: Sun Dec 27 12:17:34 2020
+
+Time: Sun Dec 27 12:17:34 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:17:34 2020
+
+Time: Sun Dec 27 12:17:34 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.ht_wsr.txt
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess.bak1
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccessBAK
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccessOLD
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess_orig
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.httr-oauth
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess.save
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.html
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htpasswd_test
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccess_sc
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htaccessOLD2
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/.htm
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:40 2020
+
+Time: Sun Dec 27 12:17:45 2020
+
+Time: Sun Dec 27 12:17:45 2020
+
+301   236B   http://localhost:8000/phpmyadmin/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:17:45 2020
+
+Time: Sun Dec 27 12:17:45 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/admin.php
+Time: Sun Dec 27 12:17:45 2020
+
+Time: Sun Dec 27 12:17:45 2020
+
+200     0B   http://localhost:8000/phpmyadmin/phpmyadmin/admin/
+Time: Sun Dec 27 12:17:45 2020
+
+Time: Sun Dec 27 12:17:45 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/admin/.htaccess
+Time: Sun Dec 27 12:17:45 2020
+
+Time: Sun Dec 27 12:17:46 2020
+
+200     0B   http://localhost:8000/phpmyadmin/phpmyadmin/admin/?/login
+Time: Sun Dec 27 12:17:49 2020
+
+Time: Sun Dec 27 12:17:49 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/cgi-bin/
+Time: Sun Dec 27 12:17:49 2020
+
+Time: Sun Dec 27 12:17:49 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:17:49 2020
+
+Time: Sun Dec 27 12:17:49 2020
+
+500     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:17:49 2020
+
+Time: Sun Dec 27 12:17:49 2020
+
+403  1020B   http://localhost:8000/phpmyadmin/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:17:52 2020
+
+Time: Sun Dec 27 12:17:52 2020
+
+403     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/error/
+Time: Sun Dec 27 12:17:52 2020
+
+Time: Sun Dec 27 12:17:52 2020
+
+200   493B   http://localhost:8000/phpmyadmin/phpmyadmin/header.php
+Time: Sun Dec 27 12:17:53 2020
+
+Time: Sun Dec 27 12:17:53 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:17:53 2020
+
+Time: Sun Dec 27 12:17:53 2020
+
+200     1KB  http://localhost:8000/phpmyadmin/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:17:57 2020
+
+Time: Sun Dec 27 12:17:57 2020
+
+301   241B   http://localhost:8000/phpmyadmin/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:17:57 2020
+
+Time: Sun Dec 27 12:17:57 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:17:57 2020
+
+Time: Sun Dec 27 12:17:57 2020
+
+200   119KB  http://localhost:8000/phpmyadmin/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess.orig
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess.save
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccessBAK
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess.bak1
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess_orig
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccessOLD2
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess.sample
+403  1020B   http://localhost:8000/admin/admin/admin/.htm
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.html
+403  1020B   http://localhost:8000/admin/admin/admin/.htpasswds
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess_extra
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccessOLD
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htaccess_sc
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.htpasswd_test
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+Time: Sun Dec 27 12:18:03 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/.httr-oauth
+Time: Sun Dec 27 12:18:08 2020
+
+Time: Sun Dec 27 12:18:08 2020
+
+301   236B   http://localhost:8000/admin/admin/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:18:08 2020
+
+Time: Sun Dec 27 12:18:08 2020
+
+200     1KB  http://localhost:8000/admin/admin/admin/admin.php
+Time: Sun Dec 27 12:18:08 2020
+
+Time: Sun Dec 27 12:18:08 2020
+
+200     0B   http://localhost:8000/admin/admin/admin/admin/
+Time: Sun Dec 27 12:18:08 2020
+
+Time: Sun Dec 27 12:18:08 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/admin/.htaccess
+Time: Sun Dec 27 12:18:08 2020
+
+Time: Sun Dec 27 12:18:08 2020
+
+200     0B   http://localhost:8000/admin/admin/admin/admin/?/login
+Time: Sun Dec 27 12:18:11 2020
+
+Time: Sun Dec 27 12:18:11 2020
+
+403     1KB  http://localhost:8000/admin/admin/admin/cgi-bin/
+Time: Sun Dec 27 12:18:11 2020
+
+Time: Sun Dec 27 12:18:11 2020
+
+Time: Sun Dec 27 12:18:11 2020
+
+403  1020B   http://localhost:8000/admin/admin/admin/cgi-bin/awstats.pl
+403  1020B   http://localhost:8000/admin/admin/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:18:11 2020
+
+Time: Sun Dec 27 12:18:11 2020
+
+Time: Sun Dec 27 12:18:11 2020
+
+500     1KB  http://localhost:8000/admin/admin/admin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:18:14 2020
+
+Time: Sun Dec 27 12:18:14 2020
+
+403     1KB  http://localhost:8000/admin/admin/admin/error/
+Time: Sun Dec 27 12:18:14 2020
+
+Time: Sun Dec 27 12:18:14 2020
+
+200   493B   http://localhost:8000/admin/admin/admin/header.php
+Time: Sun Dec 27 12:18:15 2020
+
+Time: Sun Dec 27 12:18:15 2020
+
+200     1KB  http://localhost:8000/admin/admin/admin/index.php
+Time: Sun Dec 27 12:18:15 2020
+
+Time: Sun Dec 27 12:18:15 2020
+
+200     1KB  http://localhost:8000/admin/admin/admin/index.php/login/
+Time: Sun Dec 27 12:18:18 2020
+
+Time: Sun Dec 27 12:18:18 2020
+
+301   241B   http://localhost:8000/admin/admin/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:18:19 2020
+
+Time: Sun Dec 27 12:18:19 2020
+
+200   119KB  http://localhost:8000/admin/admin/admin/phpmyadmin/
+Time: Sun Dec 27 12:18:19 2020
+
+Time: Sun Dec 27 12:18:19 2020
+
+200   119KB  http://localhost:8000/admin/admin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess.save
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccessOLD
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccessOLD2
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htm
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.html
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess_sc
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess_extra
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htpasswds
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccessBAK
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:24 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:18:24 2020
+
+Time: Sun Dec 27 12:18:25 2020
+
+Time: Sun Dec 27 12:18:25 2020
+
+Time: Sun Dec 27 12:18:25 2020
+
+Time: Sun Dec 27 12:18:25 2020
+
+Time: Sun Dec 27 12:18:25 2020
+
+Time: Sun Dec 27 12:18:29 2020
+
+Time: Sun Dec 27 12:18:29 2020
+
+301   236B   http://localhost:8000/admin/admin/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:18:30 2020
+
+Time: Sun Dec 27 12:18:30 2020
+
+200     1KB  http://localhost:8000/admin/admin/cgi-bin/admin.php
+Time: Sun Dec 27 12:18:30 2020
+
+Time: Sun Dec 27 12:18:30 2020
+
+200     0B   http://localhost:8000/admin/admin/cgi-bin/admin/
+Time: Sun Dec 27 12:18:30 2020
+
+Time: Sun Dec 27 12:18:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:18:30 2020
+
+Time: Sun Dec 27 12:18:30 2020
+
+200     0B   http://localhost:8000/admin/admin/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:18:33 2020
+
+Time: Sun Dec 27 12:18:33 2020
+
+403     1KB  http://localhost:8000/admin/admin/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:18:33 2020
+
+Time: Sun Dec 27 12:18:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:18:33 2020
+
+Time: Sun Dec 27 12:18:33 2020
+
+403  1020B   http://localhost:8000/admin/admin/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:18:33 2020
+
+Time: Sun Dec 27 12:18:33 2020
+
+500     1KB  http://localhost:8000/admin/admin/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:18:35 2020
+
+Time: Sun Dec 27 12:18:35 2020
+
+403     1KB  http://localhost:8000/admin/admin/cgi-bin/error/
+Time: Sun Dec 27 12:18:36 2020
+
+Time: Sun Dec 27 12:18:36 2020
+
+200   493B   http://localhost:8000/admin/admin/cgi-bin/header.php
+Time: Sun Dec 27 12:18:37 2020
+
+Time: Sun Dec 27 12:18:37 2020
+
+200     1KB  http://localhost:8000/admin/admin/cgi-bin/index.php
+Time: Sun Dec 27 12:18:37 2020
+
+Time: Sun Dec 27 12:18:37 2020
+
+200     1KB  http://localhost:8000/admin/admin/cgi-bin/index.php/login/
+Time: Sun Dec 27 12:18:40 2020
+
+Time: Sun Dec 27 12:18:40 2020
+
+301   241B   http://localhost:8000/admin/admin/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:18:40 2020
+
+Time: Sun Dec 27 12:18:40 2020
+
+Time: Sun Dec 27 12:18:40 2020
+
+200   119KB  http://localhost:8000/admin/admin/cgi-bin/phpmyadmin/index.php
+200   119KB  http://localhost:8000/admin/admin/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:18:40 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.ht_wsr.txt
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess.sample
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess.bak1
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess.orig
+403  1020B   http://localhost:8000/admin/admin/error/.htaccessBAK
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccessOLD2
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htm
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess.save
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess_orig
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess_sc
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htpasswd_test
+403  1020B   http://localhost:8000/admin/admin/error/.htpasswds
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.htaccess_extra
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.html
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/.httr-oauth
+403  1020B   http://localhost:8000/admin/admin/error/.htaccessOLD
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:46 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+301   236B   http://localhost:8000/admin/admin/error/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+200     1KB  http://localhost:8000/admin/admin/error/admin.php
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+200     0B   http://localhost:8000/admin/admin/error/admin/
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+200     0B   http://localhost:8000/admin/admin/error/admin/?/login
+403  1020B   http://localhost:8000/admin/admin/error/admin/.htaccess
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:51 2020
+
+Time: Sun Dec 27 12:18:54 2020
+
+Time: Sun Dec 27 12:18:54 2020
+
+403     1KB  http://localhost:8000/admin/admin/error/cgi-bin/
+Time: Sun Dec 27 12:18:54 2020
+
+Time: Sun Dec 27 12:18:54 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:18:54 2020
+
+Time: Sun Dec 27 12:18:54 2020
+
+403  1020B   http://localhost:8000/admin/admin/error/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:18:54 2020
+
+Time: Sun Dec 27 12:18:54 2020
+
+500     1KB  http://localhost:8000/admin/admin/error/cgi-bin/test-cgi
+Time: Sun Dec 27 12:18:57 2020
+
+Time: Sun Dec 27 12:18:57 2020
+
+403     1KB  http://localhost:8000/admin/admin/error/error/
+Time: Sun Dec 27 12:18:57 2020
+
+Time: Sun Dec 27 12:18:57 2020
+
+200   493B   http://localhost:8000/admin/admin/error/header.php
+Time: Sun Dec 27 12:18:58 2020
+
+Time: Sun Dec 27 12:18:58 2020
+
+200     1KB  http://localhost:8000/admin/admin/error/index.php
+Time: Sun Dec 27 12:18:58 2020
+
+Time: Sun Dec 27 12:18:58 2020
+
+200     1KB  http://localhost:8000/admin/admin/error/index.php/login/
+Time: Sun Dec 27 12:19:02 2020
+
+Time: Sun Dec 27 12:19:02 2020
+
+301   241B   http://localhost:8000/admin/admin/error/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:19:02 2020
+
+Time: Sun Dec 27 12:19:02 2020
+
+200   119KB  http://localhost:8000/admin/admin/error/phpmyadmin/
+Time: Sun Dec 27 12:19:02 2020
+
+Time: Sun Dec 27 12:19:02 2020
+
+200   119KB  http://localhost:8000/admin/admin/error/phpmyadmin/index.php
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.ht_wsr.txt
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess.orig
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess.save
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess.bak1
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccessBAK
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess_extra
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess_orig
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess.sample
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccess_sc
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:07 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htm
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htpasswds
+Time: Sun Dec 27 12:19:07 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htpasswd_test
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccessOLD2
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.htaccessOLD
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.html
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/.httr-oauth
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:08 2020
+
+Time: Sun Dec 27 12:19:12 2020
+
+Time: Sun Dec 27 12:19:12 2020
+
+Time: Sun Dec 27 12:19:13 2020
+
+301   236B   http://localhost:8000/admin/admin/index.php/login/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/admin/admin/index.php/login/admin.php
+Time: Sun Dec 27 12:19:13 2020
+
+Time: Sun Dec 27 12:19:13 2020
+
+Time: Sun Dec 27 12:19:13 2020
+
+200     0B   http://localhost:8000/admin/admin/index.php/login/admin/
+Time: Sun Dec 27 12:19:13 2020
+
+Time: Sun Dec 27 12:19:13 2020
+
+200     0B   http://localhost:8000/admin/admin/index.php/login/admin/?/login
+Time: Sun Dec 27 12:19:13 2020
+
+Time: Sun Dec 27 12:19:13 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/admin/.htaccess
+Time: Sun Dec 27 12:19:16 2020
+
+Time: Sun Dec 27 12:19:16 2020
+
+Time: Sun Dec 27 12:19:16 2020
+
+403     1KB  http://localhost:8000/admin/admin/index.php/login/cgi-bin/
+Time: Sun Dec 27 12:19:16 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:19:16 2020
+
+Time: Sun Dec 27 12:19:16 2020
+
+403  1020B   http://localhost:8000/admin/admin/index.php/login/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:19:16 2020
+
+Time: Sun Dec 27 12:19:16 2020
+
+Time: Sun Dec 27 12:19:18 2020
+
+500     1KB  http://localhost:8000/admin/admin/index.php/login/cgi-bin/test-cgi
+Time: Sun Dec 27 12:19:18 2020
+
+403     1KB  http://localhost:8000/admin/admin/index.php/login/error/
+Time: Sun Dec 27 12:19:19 2020
+
+Time: Sun Dec 27 12:19:19 2020
+
+Time: Sun Dec 27 12:19:19 2020
+
+200   493B   http://localhost:8000/admin/admin/index.php/login/header.php
+200     1KB  http://localhost:8000/admin/admin/index.php/login/index.php
+Time: Sun Dec 27 12:19:19 2020
+
+Time: Sun Dec 27 12:19:19 2020
+
+Time: Sun Dec 27 12:19:19 2020
+
+Time: Sun Dec 27 12:19:23 2020
+
+200     1KB  http://localhost:8000/admin/admin/index.php/login/index.php/login/
+301   241B   http://localhost:8000/admin/admin/index.php/login/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:19:23 2020
+
+Time: Sun Dec 27 12:19:23 2020
+
+Time: Sun Dec 27 12:19:23 2020
+
+200   119KB  http://localhost:8000/admin/admin/index.php/login/phpmyadmin/
+Time: Sun Dec 27 12:19:24 2020
+
+Time: Sun Dec 27 12:19:24 2020
+
+200   119KB  http://localhost:8000/admin/admin/index.php/login/phpmyadmin/index.php
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.ht_wsr.txt
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess.orig
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccessOLD2
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess.bak1
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess.sample
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccessOLD
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess_extra
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess_orig
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess.save
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htm
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.html
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.httr-oauth
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccessBAK
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htaccess_sc
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:30 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/.htpasswds
+Time: Sun Dec 27 12:19:30 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+301   236B   http://localhost:8000/admin/admin/phpmyadmin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+200     1KB  http://localhost:8000/admin/admin/phpmyadmin/admin.php
+200     0B   http://localhost:8000/admin/admin/phpmyadmin/admin/
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/admin/.htaccess
+200     0B   http://localhost:8000/admin/admin/phpmyadmin/admin/?/login
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:35 2020
+
+Time: Sun Dec 27 12:19:38 2020
+
+Time: Sun Dec 27 12:19:38 2020
+
+403     1KB  http://localhost:8000/admin/admin/phpmyadmin/cgi-bin/
+Time: Sun Dec 27 12:19:38 2020
+
+Time: Sun Dec 27 12:19:38 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:19:38 2020
+
+Time: Sun Dec 27 12:19:38 2020
+
+403  1020B   http://localhost:8000/admin/admin/phpmyadmin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:19:38 2020
+
+Time: Sun Dec 27 12:19:38 2020
+
+Time: Sun Dec 27 12:19:41 2020
+
+500     1KB  http://localhost:8000/admin/admin/phpmyadmin/cgi-bin/test-cgi
+403     1KB  http://localhost:8000/admin/admin/phpmyadmin/error/
+Time: Sun Dec 27 12:19:41 2020
+
+Time: Sun Dec 27 12:19:41 2020
+
+Time: Sun Dec 27 12:19:41 2020
+
+200   493B   http://localhost:8000/admin/admin/phpmyadmin/header.php
+Time: Sun Dec 27 12:19:42 2020
+
+Time: Sun Dec 27 12:19:42 2020
+
+200     1KB  http://localhost:8000/admin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:19:42 2020
+
+Time: Sun Dec 27 12:19:42 2020
+
+200     1KB  http://localhost:8000/admin/admin/phpmyadmin/index.php/login/
+Time: Sun Dec 27 12:19:45 2020
+
+Time: Sun Dec 27 12:19:45 2020
+
+301   241B   http://localhost:8000/admin/admin/phpmyadmin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:19:46 2020
+
+Time: Sun Dec 27 12:19:46 2020
+
+200   119KB  http://localhost:8000/admin/admin/phpmyadmin/phpmyadmin/
+Time: Sun Dec 27 12:19:46 2020
+
+Time: Sun Dec 27 12:19:46 2020
+
+200   119KB  http://localhost:8000/admin/admin/phpmyadmin/phpmyadmin/index.php
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.ht_wsr.txt
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccessOLD
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess.bak1
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess_extra
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess.sample
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess.orig
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess_sc
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess.save
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htm
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.html
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htpasswd_test
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccessBAK
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.httr-oauth
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccess_orig
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htaccessOLD2
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/.htpasswds
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:51 2020
+
+Time: Sun Dec 27 12:19:56 2020
+
+Time: Sun Dec 27 12:19:56 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+301   236B   http://localhost:8000/admin/cgi-bin/admin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+200     1KB  http://localhost:8000/admin/cgi-bin/admin/admin.php
+Time: Sun Dec 27 12:19:57 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+200     0B   http://localhost:8000/admin/cgi-bin/admin/admin/
+200     0B   http://localhost:8000/admin/cgi-bin/admin/admin/?/login
+Time: Sun Dec 27 12:19:57 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+Time: Sun Dec 27 12:19:57 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/admin/.htaccess
+Time: Sun Dec 27 12:20:00 2020
+
+Time: Sun Dec 27 12:20:00 2020
+
+403     1KB  http://localhost:8000/admin/cgi-bin/admin/cgi-bin/
+Time: Sun Dec 27 12:20:00 2020
+
+Time: Sun Dec 27 12:20:00 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:20:00 2020
+
+Time: Sun Dec 27 12:20:00 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/admin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:20:00 2020
+
+Time: Sun Dec 27 12:20:00 2020
+
+Time: Sun Dec 27 12:20:02 2020
+
+500     1KB  http://localhost:8000/admin/cgi-bin/admin/cgi-bin/test-cgi
+403     1KB  http://localhost:8000/admin/cgi-bin/admin/error/
+Time: Sun Dec 27 12:20:02 2020
+
+Time: Sun Dec 27 12:20:03 2020
+
+Time: Sun Dec 27 12:20:03 2020
+
+200   493B   http://localhost:8000/admin/cgi-bin/admin/header.php
+Time: Sun Dec 27 12:20:03 2020
+
+Time: Sun Dec 27 12:20:03 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/admin/index.php
+Time: Sun Dec 27 12:20:03 2020
+
+Time: Sun Dec 27 12:20:03 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/admin/index.php/login/
+Time: Sun Dec 27 12:20:07 2020
+
+Time: Sun Dec 27 12:20:07 2020
+
+301   241B   http://localhost:8000/admin/cgi-bin/admin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:20:07 2020
+
+Time: Sun Dec 27 12:20:07 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/admin/phpmyadmin/index.php
+Time: Sun Dec 27 12:20:07 2020
+
+Time: Sun Dec 27 12:20:07 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/admin/phpmyadmin/
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.ht_wsr.txt
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess.orig
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess.save
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccessBAK
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess.bak1
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccessOLD
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess_extra
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess_sc
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccessOLD2
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htm
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.html
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess.sample
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htpasswds
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htpasswd_test
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.httr-oauth
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+Time: Sun Dec 27 12:20:13 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/.htaccess_orig
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:18 2020
+
+301   236B   http://localhost:8000/admin/cgi-bin/cgi-bin/admin    -> REDIRECTS TO: http://localhost:8000/admin/
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:18 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/admin.php
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:18 2020
+
+200     0B   http://localhost:8000/admin/cgi-bin/cgi-bin/admin/
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:18 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/admin/.htaccess
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:18 2020
+
+Time: Sun Dec 27 12:20:21 2020
+
+200     0B   http://localhost:8000/admin/cgi-bin/cgi-bin/admin/?/login
+Time: Sun Dec 27 12:20:21 2020
+
+403     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/cgi-bin/
+Time: Sun Dec 27 12:20:21 2020
+
+Time: Sun Dec 27 12:20:21 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/cgi-bin/awstats.pl
+Time: Sun Dec 27 12:20:21 2020
+
+Time: Sun Dec 27 12:20:21 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/cgi-bin/cgi-bin/printenv.pl
+Time: Sun Dec 27 12:20:21 2020
+
+Time: Sun Dec 27 12:20:21 2020
+
+500     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/cgi-bin/test-cgi
+Time: Sun Dec 27 12:20:23 2020
+
+Time: Sun Dec 27 12:20:23 2020
+
+403     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/error/
+Time: Sun Dec 27 12:20:24 2020
+
+Time: Sun Dec 27 12:20:24 2020
+
+200   493B   http://localhost:8000/admin/cgi-bin/cgi-bin/header.php
+Time: Sun Dec 27 12:20:24 2020
+
+Time: Sun Dec 27 12:20:24 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/index.php
+Time: Sun Dec 27 12:20:24 2020
+
+Time: Sun Dec 27 12:20:24 2020
+
+Time: Sun Dec 27 12:20:28 2020
+
+200     1KB  http://localhost:8000/admin/cgi-bin/cgi-bin/index.php/login/
+301   241B   http://localhost:8000/admin/cgi-bin/cgi-bin/phpmyadmin    -> REDIRECTS TO: http://localhost:8000/phpmyadmin/
+Time: Sun Dec 27 12:20:28 2020
+
+Time: Sun Dec 27 12:20:28 2020
+
+Time: Sun Dec 27 12:20:28 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/cgi-bin/phpmyadmin/
+Time: Sun Dec 27 12:20:28 2020
+
+Time: Sun Dec 27 12:20:28 2020
+
+200   119KB  http://localhost:8000/admin/cgi-bin/cgi-bin/phpmyadmin/index.php
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.ht_wsr.txt
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess.bak1
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess.sample
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccessBAK
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess.save
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccessOLD
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccessOLD2
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess_orig
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess_sc
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.html
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htm
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess.orig
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.httr-oauth
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htpasswd_test
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htaccess_extra
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+Time: Sun Dec 27 12:20:34 2020
+
+403  1020B   http://localhost:8000/admin/cgi-bin/error/.htpasswds

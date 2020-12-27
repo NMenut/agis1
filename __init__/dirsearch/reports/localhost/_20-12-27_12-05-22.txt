@@ -1,0 +1,80 @@
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.ht_wsr.txt
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htaccess.orig
+403  1020B   http://localhost:8000/.htaccess.bak1
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htaccessOLD
+403  1020B   http://localhost:8000/.htaccess.sample
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htaccessBAK
+403  1020B   http://localhost:8000/.htaccess_orig
+403  1020B   http://localhost:8000/.htaccess_sc
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htaccessOLD2
+403  1020B   http://localhost:8000/.htaccess_extra
+403  1020B   http://localhost:8000/.html
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htaccess.save
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htpasswds
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htpasswd_test
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.htm
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+
+403  1020B   http://localhost:8000/.httr-oauth
+Time: Sun Dec 27 12:05:23 2020
+
+Time: Sun Dec 27 12:05:23 2020
+

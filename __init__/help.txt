@@ -1,0 +1,6 @@
+===========================================================
+Short commmand   Long Command     Description
+
+-n                --nmap1        Scan simple
+-u                --nmap2        Scan de failles
+===========================================================
